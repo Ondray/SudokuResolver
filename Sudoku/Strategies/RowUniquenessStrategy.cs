@@ -26,7 +26,6 @@ namespace Sudoku.Strategies
 
                 for (int j = 0; j < result.Length; j++)
                 {
-                     result[j]
                 }
             }
         }
